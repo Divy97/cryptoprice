@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptoprice/static/css/main.e5e94fa8.css",
+    "main.js": "/cryptoprice/static/js/main.b7620118.js",
+    "static/js/787.57bb13d1.chunk.js": "/cryptoprice/static/js/787.57bb13d1.chunk.js",
+    "index.html": "/cryptoprice/index.html",
+    "main.e5e94fa8.css.map": "/cryptoprice/static/css/main.e5e94fa8.css.map",
+    "main.b7620118.js.map": "/cryptoprice/static/js/main.b7620118.js.map",
+    "787.57bb13d1.chunk.js.map": "/cryptoprice/static/js/787.57bb13d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e94fa8.css",
+    "static/js/main.b7620118.js"
+  ]
+}
